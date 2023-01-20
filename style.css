@@ -1,0 +1,63 @@
+h1 {
+    color: whitesmoke;
+    font-family: Courier New, Courier, monospace;
+    text-align:center;
+    font-size: 50px;
+    
+}
+
+  h2 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 35px;
+    font-family: Courier New, Courier, monospace;
+
+
+  }
+
+body {
+    background-image: url("https://images2.alphacoders.com/273/thumb-1920-273270.jpg");
+       
+}
+
+.fa {
+   padding: 20px;
+   font-size: 30px;
+   width: 30px;
+   text-align: center;
+   text-decoration: none;
+   margin: 5px 2px;
+   border-radius: 50%;
+   float: right;
+   position: relative;
+   margin-right: 3%;
+  
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+  
+  
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+p {
+   font-family: Courier New, Courier, monospace;
+   font-size: 20px;
+   color: whitesmoke;
+   float: right;
+   position: relative;
+   margin-right: -17%;
+   margin-top: 7%
+}
+
+
+
+
+
+
+
