@@ -3,4 +3,5 @@ alert("Nyt on perjantai"); // Alert avaa ponnahdusikkunan ja lukee tekstin sulke
 console.log("GIT");
 /*
 Monirivinen kommentti
+GIT toiminnan testaus
 */
