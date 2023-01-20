@@ -17,6 +17,8 @@ h1 {
 
 body {
     background-image: url("https://images2.alphacoders.com/273/thumb-1920-273270.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
        
 }
 
@@ -49,10 +51,10 @@ p {
    font-family: Courier New, Courier, monospace;
    font-size: 20px;
    color: whitesmoke;
-   float: right;
+   text-align: right;
    position: relative;
-   margin-right: -17%;
-   margin-top: 7%
+   margin-right: -15%;
+   margin-top: 3%;
 }
 
 
